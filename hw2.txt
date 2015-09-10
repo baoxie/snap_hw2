@@ -13,10 +13,10 @@ Person B's Name: Angela Guo
 
 Question for A:
 1) What does git clone do?
-PUT YOUR ANSWER HERE
+It clones a repository into a new directory. 
 
 2) What is a remote repository?
-PUT YOUR ANSWER HERE
+Remote repository is version of your project/code that is hosted on the Internet or such.
 
 Question for B:
 1) Why is version-control framework such as git important?
